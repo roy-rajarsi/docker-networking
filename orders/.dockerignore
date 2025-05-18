@@ -1,0 +1,21 @@
+# Ignore Python junk
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore your venv
+venv/
+
+# Ignore system/editor files
+*.log
+*.sqlite3
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# Optional: If you store compiled packages or wheels
+*.whl
+*.egg-info/
+dist/
+build/
